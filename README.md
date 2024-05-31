@@ -7,6 +7,10 @@ https://docs.google.com/document/d/1YfatmO_BcT-KZ6AFkdvMj-vQrFhiLZm2/edit?usp=sh
 # Link label_manuak
 https://docs.google.com/spreadsheets/d/1iyUCaeEiNXYvahA3g0FGXViTrX_QsqsgBLoLT9FOKt4/edit?usp=sharing
 
+# Link dafpus
+1.https://www.researchgate.net/publication/346111006_Overview_of_the_Transformer-based_Models_for_NLP_Tasks
+2.https://mediakeuangan.kemenkeu.go.id/article/show/pemanfaatan-analisis-sentimen-dalam-peningkatan-kualitas-layanan-contact-center
+
 # gemastik
 
 ## lek blm ada beautifulsoup install pke ini
