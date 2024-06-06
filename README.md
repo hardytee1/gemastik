@@ -10,6 +10,8 @@ https://docs.google.com/spreadsheets/d/1iyUCaeEiNXYvahA3g0FGXViTrX_QsqsgBLoLT9FO
 # Link dafpus
 1.https://www.researchgate.net/publication/346111006_Overview_of_the_Transformer-based_Models_for_NLP_Tasks
 2.https://mediakeuangan.kemenkeu.go.id/article/show/pemanfaatan-analisis-sentimen-dalam-peningkatan-kualitas-layanan-contact-center
+3. https://tif.uad.ac.id/analisis-sentimen-pada-proyeksi-pemilihan-presiden-2024-menggunakan-metode-support-vector-machine/
+5. https://jurnal.fikom.umi.ac.id/index.php/ILKOM/article/view/1505
 
 # gemastik
 
